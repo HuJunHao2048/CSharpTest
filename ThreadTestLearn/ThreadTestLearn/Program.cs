@@ -11,7 +11,9 @@ namespace ThreadTestLearn
         static void Main(string[] args)
         {
             Console.WriteLine("hellow word");
+            Console.Read();
 
+            
         }
     }
 }
